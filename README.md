@@ -9,11 +9,15 @@
 
 
  ================ PROJET LIBRE OPENCL ================
+ 
  ===== Simulation d'épidémie avec Matrix Studio (voir @logiciel) =====
  
  1/ Conception générale
+ 
 	- a) Matrices
+	
 		- 1) Resultat
+		
 				La matrice contenant l'addition de toutes les autres matrices précédentes afin d'afficher une vue globale de la simulation
 		- 2) Random
 				La matrice générant aléatoirement des nombres. Elle est utilisée tout le temps à chaque fois qu'il y a un nombre aléatoire qui doit être généré (déplacement, % de risques, ...)
